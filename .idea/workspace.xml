@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12a05ac0-80eb-4280-ae15-448b06792e9f" name="Default Changelist" comment="git add index.php&#10;&#10;git add readme.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ccvLL9t2jhhFvd4IeJ7001FKMj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PGP\PhpstormProjects\untitled1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a05ac0-80eb-4280-ae15-448b06792e9f" name="Default Changelist" comment="" />
+      <created>1590840638270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590840638270</updated>
+      <workItem from="1590840639533" duration="1934000" />
+      <workItem from="1590842678133" duration="443000" />
+      <workItem from="1590843335927" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="git add index.php">
+      <created>1590841725535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590841725536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git add index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="git add index.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="195" key="#CLI_Interpreters" timestamp="1590840762189">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="195" key="#CLI_Interpreters/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840762189" />
+    <state x="753" y="273" key="#Docker" timestamp="1590840713168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="753" y="273" key="#Docker/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840713168" />
+    <state x="667" y="183" key="#PHP" timestamp="1590840787298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="183" key="#PHP/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840787298" />
+    <state x="669" y="222" key="#Unnamed" timestamp="1590840788626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#Unnamed/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840788626" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590840764491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840764491" />
+    <state x="719" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590840958877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="719" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840958877" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1590840755480">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840755480" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1590842574311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1590842574311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1590842574311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1590842574311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
+    <state x="794" y="463" key="NewPhpFileDialog" timestamp="1590840943374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840943374" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590841894079">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590841894079" />
+    <state x="667" y="117" width="585" height="846" key="find.popup" timestamp="1590842057974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="117" width="585" height="846" key="find.popup/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842057974" />
+    <state x="778" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1590842814855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="778" y="401" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842814855" />
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup" timestamp="1590842061353">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="601" y="265" width="700" height="530" key="recent.locations.popup/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842061353" />
+  </component>
+</project>
