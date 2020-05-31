@@ -6,15 +6,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
@@ -25,8 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a05ac0-80eb-4280-ae15-448b06792e9f" name="Default Changelist" comment="git add index.php&#10;&#10;git add readme.md">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +75,7 @@
       <workItem from="1590842678133" duration="443000" />
       <workItem from="1590843335927" duration="16000" />
       <workItem from="1590843755001" duration="355000" />
-      <workItem from="1590930824365" duration="355000" />
+      <workItem from="1590930824365" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="git add index.php">
       <created>1590841725535</created>
