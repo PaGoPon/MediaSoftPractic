@@ -6,17 +6,29 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:2dz" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12a05ac0-80eb-4280-ae15-448b06792e9f" name="Default Changelist" comment="git add index.php&#10;&#10;git add readme.md">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="12a05ac0-80eb-4280-ae15-448b06792e9f" name="Default Changelist" comment="А кто сделал?">
+      <change afterPath="$PROJECT_DIR$/process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +42,11 @@
     <option name="ONTO" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -40,6 +57,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,6 +76,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
   </component>
@@ -75,7 +98,21 @@
       <workItem from="1590842678133" duration="443000" />
       <workItem from="1590843335927" duration="16000" />
       <workItem from="1590843755001" duration="355000" />
-      <workItem from="1590930824365" duration="722000" />
+      <workItem from="1590930824365" duration="1203000" />
+      <workItem from="1590933359860" duration="562000" />
+      <workItem from="1590934030552" duration="136000" />
+      <workItem from="1590934599863" duration="493000" />
+      <workItem from="1590935257409" duration="11000" />
+      <workItem from="1591034713268" duration="12000" />
+      <workItem from="1591037165832" duration="120000" />
+      <workItem from="1591040285668" duration="1666000" />
+      <workItem from="1591498928017" duration="606000" />
+      <workItem from="1591499584774" duration="262000" />
+      <workItem from="1592871170884" duration="211000" />
+      <workItem from="1593118381516" duration="15000" />
+      <workItem from="1593659111102" duration="1412000" />
+      <workItem from="1593660921770" duration="21000" />
+      <workItem from="1593690241095" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="git add index.php">
       <created>1590841725535</created>
@@ -84,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590841725536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="А кто сделал?">
+      <created>1590931591994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590931591994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +145,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="2dz" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -110,61 +165,62 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git add index.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="git add index.php" />
+    <MESSAGE value="А кто сделал?" />
+    <option name="LAST_COMMIT_MESSAGE" value="А кто сделал?" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="195" key="#CLI_Interpreters" timestamp="1590840762189">
+    <state x="540" y="195" key="#CLI_Interpreters" timestamp="1591040572069">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="540" y="195" key="#CLI_Interpreters/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840762189" />
+    <state x="540" y="195" key="#CLI_Interpreters/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591040572069" />
     <state x="753" y="273" key="#Docker" timestamp="1590840713168">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="753" y="273" key="#Docker/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840713168" />
-    <state x="667" y="183" key="#PHP" timestamp="1590840787298">
+    <state x="667" y="183" key="#PHP" timestamp="1591040573208">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="667" y="183" key="#PHP/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840787298" />
-    <state x="669" y="222" key="#Unnamed" timestamp="1590840788626">
+    <state x="667" y="183" key="#PHP/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591040573208" />
+    <state x="669" y="222" key="#Unnamed" timestamp="1591040574257">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="222" key="#Unnamed/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840788626" />
-    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590840764491">
+    <state x="669" y="222" key="#Unnamed/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591040574257" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591499453862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840764491" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591499453862" />
     <state x="719" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590840958877">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="719" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840958877" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1590840755480">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1591040569461">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840755480" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1590842574311">
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591040569461" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1592871381506">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1590842574311">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592871381506" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1592871381506">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1590842574311">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592871381506" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1592871381506">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1590842574311">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592871381506" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1592871381506">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590842574311" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592871381506" />
     <state x="794" y="463" key="NewPhpFileDialog" timestamp="1590840943374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590840943374" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590841894079">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590931602118">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590841894079" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.-1080.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590931602118" />
     <state x="667" y="117" width="585" height="846" key="find.popup" timestamp="1590842057974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

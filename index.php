@@ -9,16 +9,11 @@ $text = '1866 год ознаменовался удивительным и не
      если это было животное из отряда китов, то, судя по описаниям, оно было гораздо больше всех доныне известных представителей китообразных. 
      ни Кювье, ни Ласепед, ни Дюмериль, ни Катрфаж не поверили бы в существование подобного чудовища, не увидав его собственными глазами, то есть глазами ученых.';
 
-$punctuation = ['.',',' ];
 
-
-$NewText = str_replace($punctuation, "", $text);
-$masText = explode(" ", $NewText);
-$countText = count($masText);
-$LastMas=array_count_values($masText);
-
-foreach ($LastMas as $key => $value){
-    echo "{$key} : {$value}". PHP_EOL;
-}
-echo "Всего слов : {$countText}". PHP_EOL;
 ?>
+
+<form method="post" enctype="multipart/form-data" action="process.php">
+    <input type="file" name="docs"> <br>
+    <textarea name="" cols="60" rows="13"><?=$text?></textarea> <br>
+    <input type="submit">
+</form>
